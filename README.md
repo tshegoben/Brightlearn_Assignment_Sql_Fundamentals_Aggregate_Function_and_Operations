@@ -1,0 +1,2 @@
+# Brightlearn_Assignment_Sql_Fundamentals_Aggregate_Function_and_Operations
+Demontration of SQl Fundamentals
